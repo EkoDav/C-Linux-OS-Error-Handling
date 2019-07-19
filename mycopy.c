@@ -1,6 +1,6 @@
 /* 
  * mycopy.c written by Erik Davis
- * CS431 - Assignment 1, March 27, 2019
+ * March 27, 2019
  * 
  * A simple program to perform a copy of data from
  * a source file to a destination file
